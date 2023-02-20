@@ -2,6 +2,8 @@
 with statement merupakan fitur yang digunakan untuk menurunkan sabuah scope data
 dengan menggunakan with statement, kita bisa mengakses property dalam sebuah data
 tanpa harus menyebut datanya.
+dalam java script baru tidak direkomendasikan penggunakaannya
+karena kode with statement menjadi ambigu antara ini variable lain atau variable ini.
 */
 
 //contoh kode tanpa with statement
